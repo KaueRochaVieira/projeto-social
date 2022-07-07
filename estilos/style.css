@@ -20,6 +20,11 @@ body {
   overflow: hidden;
 }
 
+div.wrap {
+  height: 100%;
+  overflow: hidden;
+}
+
 main {
   position: relative;
   height: 100vh;
