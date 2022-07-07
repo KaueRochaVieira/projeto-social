@@ -74,4 +74,17 @@ section#redes-sociais img:hover {
     margin-left: 5px;
     margin-right: 5px;
   }
+
+  section#telefone {
+    background: url(../imagens/frame-iphone-cel.png) no-repeat;
+    height: 527px;
+    width: 261px;
+  }
+
+  iframe#tela {
+    top: 67px;
+    left: 18px;
+    width: 225px;
+    height: 396px;
+  }
 }
